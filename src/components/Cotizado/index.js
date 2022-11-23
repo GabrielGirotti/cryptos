@@ -1,0 +1,1 @@
+export { default as Cotizado } from './Cotizado';
